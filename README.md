@@ -1,2 +1,2 @@
 # site-de-vendas
-Desenvolvi no curso que realizei.
+Desenvolvido no curso que realizei.
